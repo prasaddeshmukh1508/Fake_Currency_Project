@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu May 26 11:46:34 2022
-
-@author: Lenovo
+@author: Prasad Deshmukh
 """
 
 
